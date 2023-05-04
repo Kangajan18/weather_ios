@@ -16,7 +16,7 @@
 		5AA606502A02B094009F040A /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA6064F2A02B094009F040A /* WeatherData.swift */; };
 		5AA606522A02B128009F040A /* WeatherApiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA606512A02B128009F040A /* WeatherApiManager.swift */; };
 		5AA606552A02B1AA009F040A /* WeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA606542A02B1AA009F040A /* WeatherModel.swift */; };
-		5AA606582A02B3B7009F040A /* .Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA606572A02B3B7009F040A /* .Config.swift */; };
+		5AA606582A02B3B7009F040A /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA606572A02B3B7009F040A /* Config.swift */; };
 		5AA6065A2A03B7D7009F040A /* ViewController+Extentions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA606592A03B7D7009F040A /* ViewController+Extentions.swift */; };
 /* End PBXBuildFile section */
 
@@ -32,7 +32,7 @@
 		5AA6064F2A02B094009F040A /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
 		5AA606512A02B128009F040A /* WeatherApiManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherApiManager.swift; sourceTree = "<group>"; };
 		5AA606542A02B1AA009F040A /* WeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherModel.swift; sourceTree = "<group>"; };
-		5AA606572A02B3B7009F040A /* .Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = .Config.swift; sourceTree = "<group>"; };
+		5AA606572A02B3B7009F040A /* Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
 		5AA606592A03B7D7009F040A /* ViewController+Extentions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController+Extentions.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -133,7 +133,7 @@
 		5AA606562A02B3A3009F040A /* Core */ = {
 			isa = PBXGroup;
 			children = (
-				5AA606572A02B3B7009F040A /* .Config.swift */,
+				5AA606572A02B3B7009F040A /* Config.swift */,
 			);
 			path = Core;
 			sourceTree = "<group>";
@@ -215,7 +215,7 @@
 				5AA606302A023231009F040A /* AppDelegate.swift in Sources */,
 				5AA6065A2A03B7D7009F040A /* ViewController+Extentions.swift in Sources */,
 				5AA606322A023231009F040A /* SceneDelegate.swift in Sources */,
-				5AA606582A02B3B7009F040A /* .Config.swift in Sources */,
+				5AA606582A02B3B7009F040A /* Config.swift in Sources */,
 				5AA606522A02B128009F040A /* WeatherApiManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
